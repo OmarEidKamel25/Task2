@@ -12,3 +12,4 @@ C:\Users\omare_gv6q\source\repos\Tasks\Tasks\obj\Debug\net8.0\refint\Tasks.dll
 C:\Users\omare_gv6q\source\repos\Tasks\Tasks\obj\Debug\net8.0\Tasks.pdb
 C:\Users\omare_gv6q\source\repos\Tasks\Tasks\obj\Debug\net8.0\Tasks.genruntimeconfig.cache
 C:\Users\omare_gv6q\source\repos\Tasks\Tasks\obj\Debug\net8.0\ref\Tasks.dll
+C:\Users\omare_gv6q\source\repos\Tasks\Tasks\obj\Debug\net8.0\Tasks.sourcelink.json
